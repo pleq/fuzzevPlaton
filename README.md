@@ -7,5 +7,5 @@
 # Manual:
 
 1. from repo directory run cmd -> python main.py;
-2. type URL and route/to/wordlist like so 'https://auto.drom.ru lists/mydict.txt';
-3. wait for the code to run and you`ll see what`s inside.
+2. type URL and route/to/wordlist like so `https://auto.drom.ru lists/mydict.txt`;
+3. wait for the code to run and you ll see whats inside.
